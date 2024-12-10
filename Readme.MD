@@ -37,7 +37,14 @@ Follow these steps to get your application running within IntelliJ IDEA:
 - Any additional libraries or frameworks used in the project.
 
 ## Demo
-
+![mainMenuAndThenAddingNewVehicleToTheInventory.PNG](imgs%2FmainMenuAndThenAddingNewVehicleToTheInventory.PNG)
+![removingVehicleAndExitingFromTheApp.PNG](imgs%2FremovingVehicleAndExitingFromTheApp.PNG)
+![searchVehicleByColor.PNG](imgs%2FsearchVehicleByColor.PNG)
+![searchVehicleByMakeModel.PNG](imgs%2FsearchVehicleByMakeModel.PNG)
+![searchVehicleByMileage.PNG](imgs%2FsearchVehicleByMileage.PNG)
+![searchVehicleByPrice.PNG](imgs%2FsearchVehicleByPrice.PNG)
+![searchVehicleByType.PNG](imgs%2FsearchVehicleByType.PNG)
+![searchVehicleByYear.PNG](imgs%2FsearchVehicleByYear.PNG)
 ## Future Work
 
 - Some virtual graphics can be added.
